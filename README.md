@@ -6,6 +6,10 @@ I am always interesting about learning and develop myself, and it made me a life
 I'm enjoy helping other developers by answer their questions and be an influencer by writing about programming and computer science in general in my social media pages, and also make a Youtube tutorials.  
 You can explore some on my public opensource projects in my GitHub profile.  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HouariZegai&show_icons=true">
+</p>
+
 If you have questions, or you have a project I'm available for freelancing and also I'm looking for a new opportunities,  
 you can always contact me at:  
 
