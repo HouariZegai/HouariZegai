@@ -7,7 +7,7 @@
 - 💬 Ask me about Java
 - ⚡ Freelancer and looking for a new opportunities.
 
-IWhat I do:
+What I do:
 - Experienced in Java, Spring Boot, Angular and more.  
 - Google Developer Group co-organizer.
 - Developer student clubs (by Google) Core Team founder for 2019/2020 season.
@@ -18,11 +18,11 @@ IWhat I do:
 
 ### Contact me at:
 
-[![linkedin icon](icons/linkedin.png)](https://linkedin.com/in/HouariZegai)
-[![twitter icon](icons/twitter.png)](https://twitter.com/HouariZegai)
-[![youtube icon](icons/youtube.png)](https://youtube.com/HouariZegai)
-[![instagram icon](icons/instagram.png)](https://instagram.com/HouariZegai)
-[![facebook icon](icons/facebook.png)](https://facebook.com/ZegaiBlog)
+[![linkedin](icons/linkedin.png)](https://linkedin.com/in/HouariZegai) 
+[![twitter](icons/twitter.png)](https://twitter.com/HouariZegai) 
+[![youtube](icons/youtube.png)](https://youtube.com/HouariZegai) 
+[![instagram](icons/instagram.png)](https://instagram.com/HouariZegai) 
+[![facebook](icons/facebook.png)](https://facebook.com/ZegaiBlog) 
 
 ### Some statistics:
 
