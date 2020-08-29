@@ -27,4 +27,4 @@ you can always contact me at:
 
 Email: engzegai@gmail.com  
 Phone +213 (0) 797603258  
-[LinkedIn](https://linkedin.com/in/HouariZegai) | Twitter [@HouariZegai](https://twitter.com/HouariZegai)
+[LinkedIn](https://linkedin.com/in/HouariZegai) | [Instagram](https://instagram.com/HouariZegai) | [Facebook](https://facebook.com/ZegaiBlog) | Twitter [@HouariZegai](https://twitter.com/HouariZegai)
