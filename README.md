@@ -18,11 +18,11 @@ What I do:
 
 ### Contact me at:
 
-[![linkedin](linkedin.png)](https://linkedin.com/in/HouariZegai) 
-[![twitter](twitter.png)](https://twitter.com/HouariZegai) 
-[![youtube](youtube.png)](https://youtube.com/HouariZegai) 
-[![instagram](instagram.png)](https://instagram.com/HouariZegai) 
-[![facebook](facebook.png)](https://facebook.com/ZegaiBlog) 
+[![linkedin](https://github.com/HouariZegai/HouariZegai/blob/master/icons/linkedin.png)](https://linkedin.com/in/HouariZegai) 
+[![twitter](https://github.com/HouariZegai/HouariZegai/blob/master/icons/twitter.png)](https://twitter.com/HouariZegai) 
+[![youtube](https://github.com/HouariZegai/HouariZegai/blob/master/icons/youtube.png)](https://youtube.com/HouariZegai) 
+[![instagram](https://github.com/HouariZegai/HouariZegai/blob/master/icons/instagram.png)](https://instagram.com/HouariZegai) 
+[![facebook](https://github.com/HouariZegai/HouariZegai/blob/master/icons/facebook.png)](https://facebook.com/ZegaiBlog) 
 
 ### Some statistics:
 
