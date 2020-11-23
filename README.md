@@ -1,8 +1,11 @@
-## Hi there 👋
-[![HitCount](http://hits.dwyl.com/HouariZegai/HouariZegai.svg)](http://hits.dwyl.com/HouariZegai/HouariZegai)  
-A multi-skilled Software Engineer.
+## About
+<!--[![HitCount](http://hits.dwyl.com/HouariZegai/HouariZegai.svg)](http://hits.dwyl.com/HouariZegai/HouariZegai)  -->
+A junior software engineer, mainly backend using Java and frontend using JavaFX.
 
-### Contact me at:
+**The stack I prefer to work with:**
+* Spring Boot / JavaFX / Angular
+
+**Find me at:**
 
 [![linkedin](https://github.com/HouariZegai/HouariZegai/blob/master/icons/linkedin.png)](https://linkedin.com/in/HouariZegai) 
 [![twitter](https://github.com/HouariZegai/HouariZegai/blob/master/icons/twitter.png)](https://twitter.com/HouariZegai) 
@@ -25,4 +28,7 @@ A multi-skilled Software Engineer.
 ### Statistics
   <img src="https://github-readme-stats.vercel.app/api?username=HouariZegai&show_icons=true" alt="GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=houarizegai&layout=compact" alt="Most used langs">
+  
+### Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=houarizegai)
 </details>
