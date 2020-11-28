@@ -1,6 +1,6 @@
 ## About
 <!--[![HitCount](http://hits.dwyl.com/HouariZegai/HouariZegai.svg)](http://hits.dwyl.com/HouariZegai/HouariZegai)  -->
-A junior software engineer, mainly backend using Java and frontend using JavaFX.
+Java Software Engineer.
 
 **The stack I prefer to work with:**
 * Spring Boot / JavaFX / Angular
