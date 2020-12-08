@@ -3,7 +3,7 @@
 Java Software Engineer.
 
 **The stack I prefer to work with:**
-* Spring Boot / JavaFX / Angular
+* Spring Boot / Angular / JavaFX
 
 **Find me at:**
 
