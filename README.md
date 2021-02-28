@@ -7,11 +7,11 @@ Java Software Engineer.
 
 **Find me at:**
 
-[![linkedin](https://github.com/HouariZegai/HouariZegai/blob/master/icons/linkedin.png)](https://linkedin.com/in/HouariZegai) 
-[![twitter](https://github.com/HouariZegai/HouariZegai/blob/master/icons/twitter.png)](https://twitter.com/HouariZegai) 
-[![youtube](https://github.com/HouariZegai/HouariZegai/blob/master/icons/youtube.png)](https://youtube.com/HouariZegai) 
-[![instagram](https://github.com/HouariZegai/HouariZegai/blob/master/icons/instagram.png)](https://instagram.com/HouariZegai) 
-[![facebook](https://github.com/HouariZegai/HouariZegai/blob/master/icons/facebook.png)](https://facebook.com/ZegaiBlog) 
+[LinkedIn](https://linkedin.com/in/HouariZegai) | 
+[Twitter](https://twitter.com/HouariZegai) | 
+[YouTube](https://youtube.com/HouariZegai) | 
+[Instagram](https://instagram.com/HouariZegai) | 
+[Facebook](https://facebook.com/ZegaiBlog)
 
 <details>
   <summary>Details & Some statistics</summary>
