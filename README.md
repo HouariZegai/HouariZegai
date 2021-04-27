@@ -1,6 +1,6 @@
 ## About
 <!--[![HitCount](http://hits.dwyl.com/HouariZegai/HouariZegai.svg)](http://hits.dwyl.com/HouariZegai/HouariZegai)  -->
-Java Software Engineer.
+Software Development Engineer.
 
 **The stack I prefer to work with:**
 * Spring Boot / Angular / JavaFX
