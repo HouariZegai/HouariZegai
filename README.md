@@ -11,7 +11,7 @@ Software Engineer
 - Developer student clubs (by Google) Core Team founder for 2019/2020 season.
 - I made a lot of talks and workshops in events.
 - I am always interesting about learning and develop myself.
-- Enjoy helping other developers by answer their questions
+- Enjoy helping other developers by answer their questions.
 - Social media influencer (posting about technology in my social media pages, and make a Youtube tutorials).
   
 ### Statistics
