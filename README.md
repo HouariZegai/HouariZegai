@@ -1,17 +1,6 @@
-## About
-<!--[![HitCount](http://hits.dwyl.com/HouariZegai/HouariZegai.svg)](http://hits.dwyl.com/HouariZegai/HouariZegai)  -->
-Software Development Engineer.
+Software Engineer
 
-**The stack I prefer to work with:**
-* Spring Boot / Angular / JavaFX
-
-**Find me at:**
-
-[LinkedIn](https://linkedin.com/in/HouariZegai) | 
-[Twitter](https://twitter.com/HouariZegai) | 
-[YouTube](https://youtube.com/HouariZegai) | 
-[Instagram](https://instagram.com/HouariZegai) | 
-[Facebook](https://facebook.com/ZegaiBlog)
+:computer: Mainly: Java (Spring), Angular & Docker  
 
 <details>
   <summary>Details & Some statistics</summary>
@@ -32,5 +21,3 @@ Software Development Engineer.
 ### Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=houarizegai)
 </details>
-What’s special about 1970? That’s what UNIX started using for date standards,
-so Java reused it.
