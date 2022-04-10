@@ -1,4 +1,4 @@
-I graduated with a master's degree in Software Engineering and got first place in the University, and I am an Oracle certified in Java ([OCA](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D1015CBB01F0B5F8483ADF70DBB48EB40EB6537B2ECDDAABFB16271C6AD87A90))  
+I graduated with a master's degree in Software Engineering, got first place in the University, and I am an Oracle certified in Java ([OCA](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D1015CBB01F0B5F8483ADF70DBB48EB40EB6537B2ECDDAABFB16271C6AD87A90))  
 
 While working across the Java Technology Stack I have designed and developed applications using various Spring Boot modules and also frontend JS frameworks like Angular
 
