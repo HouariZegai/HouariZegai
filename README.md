@@ -23,7 +23,7 @@ I care deeply about **code quality**, **developer experience**, and **long-term 
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Past Projects
 
 - 🎙️ **[Dev Journey Podcast](https://www.youtube.com/@devjourneycast)** - Co-founder & host, sharing insights on software engineering, careers, and productivity
 - 🎥 **[YouTube Channel](https://youtube.com/HouariZegai)** - Free tutorials on backend development, Java, and software tooling
