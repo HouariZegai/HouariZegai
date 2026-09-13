@@ -1,6 +1,6 @@
 # Hi, I'm Houari 👋
 
-📍 **Algeria ↔ Digital Nomad** | 🤖 **Software Craftsman** | 🏅 **[Java Certified](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D1015CBB01F0B5F8483ADF70DBB48EB40EB6537B2ECDDAABFB16271C6AD87A90)**
+🤖 **Software Craftsman** | 🏅 **[Java Certified](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D1015CBB01F0B5F8483ADF70DBB48EB40EB6537B2ECDDAABFB16271C6AD87A90)**
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a backend engineer with **7+ years of experience** building **scalable and reliable systems**.  
+I’m a software engineer with **7+ years of experience** building **scalable and reliable systems**.  
 My work focuses mainly on **Java & Spring ecosystems**, clean architecture, and API-driven platforms.
 
 I care deeply about **code quality**, **developer experience**, and **long-term maintainability**.
